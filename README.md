@@ -1,5 +1,4 @@
 <img width="2400" height="520" alt="banner" src="https://github.com/user-attachments/assets/6ae7883c-d713-4848-bebd-fc1a94ae2265" />
-![Shashank Shukla — CS Undergraduate, Data Structures & Algorithms, C++/JavaScript, Cloud Architecture](./assets/banner.png)
 
 Building software from first principles — implementing core data structures and memory-management routines by hand in C/C++, and applying secure cloud-architecture patterns through hands-on simulations. Targeting Software Engineering internships and entry-level roles.
 
